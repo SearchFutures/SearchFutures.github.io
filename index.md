@@ -28,7 +28,7 @@ We would like to attract a broad range of positions about the future of search. 
 - Should IR systems curate information for users to avoid information overload?
 - What is the future of results presentation?
 
-## schedule
+
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 
 ## Organisers
