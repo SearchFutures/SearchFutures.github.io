@@ -37,7 +37,7 @@ Topics of interest may include, but are not limited to:
 - Can IR further optimize workplace productivity?
 
 
-If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair. <a href="https://easychair.org/conferences/?conf=searchfuturesecir24."> Link <a>.
+If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair. <a href="https://easychair.org/conferences/?conf=searchfuturesecir24.">Link</a>.
 
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 
