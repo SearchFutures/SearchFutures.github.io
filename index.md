@@ -36,13 +36,13 @@ Topics of interest may include, but are not limited to:
 - Can IR further optimize workplace productivity?
 
 
-If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/conferences/?conf=searchfuturesecir24">Link</a>.
+If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/conferences/?conf=searchfuturesecir24">Link</a>. The abstract will be evaluated through a single-blind process.
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none;"> Important Dates </a>
 Submission Deadlines: February 25, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none;"> Schedule </a>
-
+To be determined.
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 ## <a name='Organisers' style="color: inherit; text-decoration: none;"> Organisers </a>
 
