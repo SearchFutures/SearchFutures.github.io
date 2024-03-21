@@ -109,7 +109,7 @@ Submission Deadlines: February 25, 2024
 **Kidist Mekonnen and Maarten de Rijke**, Beyond the Next Result: Optimizing for Long Term Goals <br/>
 
 ### Ethics, Fairness and Values
-**Ethics, Fairness and Values**， Ethics, Fairness and Values <br/>
+**Bhaskar Mitra**， Re-centering Search on Societal Needs <br/>
 **David Vos, Jin Huang & Maarten de Rijke**， The Role of LLMs in Democratic News Rec Sys <br/>
 **Jasmin Kareem and Maarten de Rijke**， Explainability for Engineers: A Path Forward … <br/>
 
