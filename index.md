@@ -1,4 +1,3 @@
----
 layout: page
 description: ""
 ---
@@ -42,8 +41,85 @@ If you are interested in presenting your views, submit an abstract only (approx.
 Submission Deadlines: February 25, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none;"> Schedule </a>
-To be determined.
+<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Time(To be determined)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Welcome</td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>Mini Talks</td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>Coffee</td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>Mini Talks</td>
+      <td>        </td>
+    </tr>
+     <tr>
+      <td>Lunch</td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>Break out</td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>Coffee</td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>Discussion</td>
+      <td>        </td>
+    </tr>
+  </tbody>
+</table>
+
+## <a name='Speakers' style="color: inherit; text-decoration: none;"> Speakers </a>
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
+### Invited Speakers
+**Suzan Verberne**, Information Retrieval in the age of LLMs
+**Bill Hersh**, Search still matters in era of LLMs 
+**Eugene Yang**, IR for Complex Information Needs
+**Fabrizio Silvestri**, Information Retrieval in the Age of RAG Systems
+**Negar Arabzadeh**, To be Determined
+**Ian Soboroff**， Trustworthy information systems
+
+### Visions and Applications: Implications and Ramifications
+**Raman Chandrasekar**， Ubiquitous Finding Engines
+**Zain Hasan**, Healthcare Applications IR+LLMs
+**Yuyue Zhao, Jin Huang & Maarten de Rijke**, Can LLMs Serve as User Simulators for Rec Sys?
+
+### Principles and Theories: Past, Present and Future
+**Adam Roegiest**, Going Back to The Future
+**Kidist Mekonnen and Maarten de Rijke**, Beyond the Next Result: Optimizing for Long Term Goals
+
+### Ethics, Fairness and Values
+**Ethics, Fairness and Values**， Ethics, Fairness and Values
+**David Vos, Jin Huang & Maarten de Rijke**， The Role of LLMs in Democratic News Rec Sys
+**Jasmin Kareem and Maarten de Rijke**， Explainability for Engineers: A Path Forward …
+
+### Visions and Applications: Dangers and Harms
+**Paul Kantor**, IR can help us survive the LLM revolution
+**Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas!**, No One Attacks Live This
+**Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas**, On the Challenges of DSI in Conversational IR
+
+ 
+
+
 ## <a name='Organisers' style="color: inherit; text-decoration: none;"> Organisers </a>
 
 **Leif Azzopardi**, University of Strathclyde, leif.azzopardi@strath.ac.uk
@@ -57,6 +133,7 @@ To be determined.
 **Johanne Trippas**, RMIT University, j.trippas@rmit.edu.au
 
 **Zhaochun Ren**, Leiden University, z.ren@liacs.leidenuniv.nl
+
 
 
 
