@@ -74,11 +74,11 @@ Workshop: March 24, 2024
     </tr>
      <tr>
       <td> </td>
-      <td>   <h3>To be Determined   </h3>   Negar Arabzadeh    </td>
+      <td>   <h3>To be Confirmed   </h3>   Negar Arabzadeh    </td>
     </tr>
     <tr>
       <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">   <h3>Trustworthy information systems   </h3>    Ian Soboroff    </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;">   <h3>Trustworthy information systems</h3>    Ian Soboroff    </td>
     </tr>
     <tr>
       <td style="padding: 5px; width: 50%;"> <h5>Visions and Applications: Implications and Ramifications</h5> </td>
