@@ -92,31 +92,31 @@ Submission Deadlines: February 25, 2024
 ## <a name='Speakers' style="color: inherit; text-decoration: none;"> Speakers </a>
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 ### Invited Speakers
-**Suzan Verberne**, Information Retrieval in the age of LLMs
-**Bill Hersh**, Search still matters in era of LLMs 
-**Eugene Yang**, IR for Complex Information Needs
-**Fabrizio Silvestri**, Information Retrieval in the Age of RAG Systems
-**Negar Arabzadeh**, To be Determined
-**Ian Soboroff**， Trustworthy information systems
+**Suzan Verberne**, Information Retrieval in the age of LLMs <br/>
+**Bill Hersh**, Search still matters in era of LLMs <br/>
+**Eugene Yang**, IR for Complex Information Needs <br/>
+**Fabrizio Silvestri**, Information Retrieval in the Age of RAG Systems <br/>
+**Negar Arabzadeh**, To be Determined <br/>
+**Ian Soboroff**， Trustworthy information systems <br/>
 
 ### Visions and Applications: Implications and Ramifications
-**Raman Chandrasekar**， Ubiquitous Finding Engines
-**Zain Hasan**, Healthcare Applications IR+LLMs
-**Yuyue Zhao, Jin Huang & Maarten de Rijke**, Can LLMs Serve as User Simulators for Rec Sys?
+**Raman Chandrasekar**， Ubiquitous Finding Engines <br/>
+**Zain Hasan**, Healthcare Applications IR+LLMs <br/>
+**Yuyue Zhao, Jin Huang & Maarten de Rijke**, Can LLMs Serve as User Simulators for Rec Sys? <br/>
 
 ### Principles and Theories: Past, Present and Future
-**Adam Roegiest**, Going Back to The Future
-**Kidist Mekonnen and Maarten de Rijke**, Beyond the Next Result: Optimizing for Long Term Goals
+**Adam Roegiest**, Going Back to The Future <br/>
+**Kidist Mekonnen and Maarten de Rijke**, Beyond the Next Result: Optimizing for Long Term Goals <br/>
 
 ### Ethics, Fairness and Values
-**Ethics, Fairness and Values**， Ethics, Fairness and Values
-**David Vos, Jin Huang & Maarten de Rijke**， The Role of LLMs in Democratic News Rec Sys
-**Jasmin Kareem and Maarten de Rijke**， Explainability for Engineers: A Path Forward …
+**Ethics, Fairness and Values**， Ethics, Fairness and Values <br/>
+**David Vos, Jin Huang & Maarten de Rijke**， The Role of LLMs in Democratic News Rec Sys <br/>
+**Jasmin Kareem and Maarten de Rijke**， Explainability for Engineers: A Path Forward … <br/>
 
 ### Visions and Applications: Dangers and Harms
-**Paul Kantor**, IR can help us survive the LLM revolution
-**Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas!**, No One Attacks Live This
-**Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas**, On the Challenges of DSI in Conversational IR
+**Paul Kantor**, IR can help us survive the LLM revolution <br/>
+**Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas!**, No One Attacks Live This <br/>
+**Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas**, On the Challenges of DSI in Conversational IR <br/>
 
  
 
