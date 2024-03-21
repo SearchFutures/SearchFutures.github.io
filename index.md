@@ -20,7 +20,6 @@ In our pursuit of “search futures”, this workshop aims to provide the first 
 
 ## <a name='Call for Speakers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Speakers </a> <br/>
 <br/>
-<br/>
 With advances in AI, it is claimed that the results of search across all of digitized knowledge can be digested, summarized, and focused for any inquirer. If this is true, has the problem that IR set out to address now been solved?  Is there no need for improvements in search or recommendation -- the systems will tell us what ought to want to know. This workshop asks: is there a place for the guiding principles of IR, in this brave new world? What are the new questions, and can we find a path to answers, by extending the ideas that have brought us here? Do we need new ideas altogether?
 We are looking for speakers to present their views and positions about the future of search.
 
