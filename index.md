@@ -42,81 +42,24 @@ If you are interested in presenting your views, submit an abstract only (approx.
 Submission Deadlines: February 25, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none;"> Schedule </a>
-<table>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th>Time(To be determined)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Welcome</td>
-      <td>        </td>
-    </tr>
-    <tr>
-      <td>Mini Talks</td>
-      <td>        </td>
-    </tr>
-    <tr>
-      <td>Coffee</td>
-      <td>        </td>
-    </tr>
-    <tr>
-      <td>Mini Talks</td>
-      <td>        </td>
-    </tr>
-     <tr>
-      <td>Lunch</td>
-      <td>        </td>
-    </tr>
-    <tr>
-      <td>Break out</td>
-      <td>        </td>
-    </tr>
-    <tr>
-      <td>Coffee</td>
-      <td>        </td>
-    </tr>
-    <tr>
-      <td>Summary</td>
-      <td>        </td>
-    </tr>
-    <tr>
-      <td>Discussion</td>
-      <td>        </td>
-    </tr>
-  </tbody>
-</table>
-
-## <a name='Speakers' style="color: inherit; text-decoration: none;"> Speakers </a>
-<!-- ​	<img src="1.jpg" style="width:80%;" /> -->
-### Invited Speakers
 **Suzan Verberne**, Information Retrieval in the age of LLMs <br/>
 **Bill Hersh**, Search still matters in era of LLMs <br/>
 **Eugene Yang**, IR for Complex Information Needs <br/>
 **Fabrizio Silvestri**, Information Retrieval in the Age of RAG Systems <br/>
 **Negar Arabzadeh**, To be Determined <br/>
 **Ian Soboroff**， Trustworthy information systems <br/>
-
-### Visions and Applications: Implications and Ramifications
 **Raman Chandrasekar**， Ubiquitous Finding Engines <br/>
 **Zain Hasan**, Healthcare Applications IR+LLMs <br/>
 **Yuyue Zhao, Jin Huang & Maarten de Rijke**, Can LLMs Serve as User Simulators for Rec Sys? <br/>
-
-### Principles and Theories: Past, Present and Future
 **Adam Roegiest**, Going Back to The Future <br/>
 **Kidist Mekonnen and Maarten de Rijke**, Beyond the Next Result: Optimizing for Long Term Goals <br/>
-
-### Ethics, Fairness and Values
 **Bhaskar Mitra**， Re-centering Search on Societal Needs <br/>
 **David Vos, Jin Huang & Maarten de Rijke**， The Role of LLMs in Democratic News Rec Sys <br/>
 **Jasmin Kareem and Maarten de Rijke**， Explainability for Engineers: A Path Forward … <br/>
-
-### Visions and Applications: Dangers and Harms
 **Paul Kantor**, IR can help us survive the LLM revolution <br/>
 **Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas!**, No One Attacks Live This <br/>
 **Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas**, On the Challenges of DSI in Conversational IR <br/>
+
 
  
 
