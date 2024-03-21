@@ -52,7 +52,7 @@ Submission Deadlines: February 25, 2024
   </thead> -->
   <tbody>
     <tr>
-      <td>Invited Talks</td>
+      <td> <h4>Invited Talks</h4> </td>
       <td>        </td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ Submission Deadlines: February 25, 2024
       <td>   <h3>Trustworthy information systems   </h3>    Ian Soboroff    </td>
     </tr>
     <tr>
-      <td>Visions and Applications: Implications and Ramifications</td>
+      <td> <h4>Visions and Applications: Implications and Ramifications</h4> </td>
       <td>        </td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ Submission Deadlines: February 25, 2024
       <td>   <h3>Can LLMs Serve as User Simulators for Rec Sys?   </h3>   Yuyue Zhao, Jin Huang & Maarten de Rijke     </td>
     </tr>
    <tr>
-      <td> Principles and Theories: Past, Present and Future  </td>
+      <td> <h4>Principles and Theories: Past, Present and Future</h4>  </td>
       <td>    </td>
     </tr>
    <tr>
@@ -108,7 +108,7 @@ Submission Deadlines: February 25, 2024
       <td>    <h3>Beyond the Next Result: Optimizing for Long Term Goals   </h3>   Kidist Mekonnen and Maarten de Rijke    </td>
     </tr>
    <tr>
-      <td> Ethics, Fairness and Values  </td>
+      <td> <h4>Ethics, Fairness and Values</h4>  </td>
       <td>    </td>
     </tr>
    <tr>
@@ -124,7 +124,7 @@ Submission Deadlines: February 25, 2024
       <td>    <h3>Explainability for Engineers: A Path Forward …   </h3>   Jasmin Kareem and Maarten de Rijke    </td>
     </tr>
    <tr>
-      <td>  Visions and Applications: Dangers and Harms </td>
+      <td>  <h4>Visions and Applications: Dangers and Harms</h4> </td>
       <td>    </td>
     </tr>
    <tr>
