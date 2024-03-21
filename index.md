@@ -45,27 +45,27 @@ Submission Deadlines: February 25, 2024
 |               |                 |
 |-------------|---------------|
 | Invited Talks |                 |
-|              | **Suzan Verberne**<br/> **Information Retrieval in the age of LLMs** |
-|              | **Bill Hersh** <br/> **Search still matters in era of LLMs** |
-|              | **Eugene Yang** <br/> **IR for Complex Information Needs** |
-|              | **Fabrizio Silvestri** <br/> Information Retrieval in the Age of RAG Systems |
-|              | **Negar Arabzadeh** <br/> To be Determined |
-|              | **Ian Soboroff** <br/> Trustworthy information systems |
+|              | **Information Retrieval in the age of LLMs** <br/>  **Suzan Verberne**|
+|              | **Search still matters in era of LLMs** <br/> **Bill Hersh** |
+|              | **IR for Complex Information Needs** <br/>  **Eugene Yang**|
+|              | **Information Retrieval in the Age of RAG Systems** <br/>  **Fabrizio Silvestri**|
+|              | **To be Determined** <br/> **Negar Arabzadeh**  |
+|              | **Trustworthy information systems** <br/>  **Ian Soboroff**|
 | Visions and Applications: Implications and Ramifications |   |
-|              | **Raman Chandrasekar** <br/> Ubiquitous Finding Engines | 
-|              | **Zain Hasan** <br/> Healthcare Applications IR+LLMs |
-|              | **Yuyue Zhao, Jin Huang & Maarten de Rijke** <br/> Can LLMs Serve as User Simulators for Rec Sys? |
+|              | **Ubiquitous Finding Engines** <br/> **Raman Chandrasekar** | 
+|              | **Healthcare Applications IR+LLMs** <br/> **Zain Hasan** |
+|              | **Can LLMs Serve as User Simulators for Rec Sys?** <br/> **Yuyue Zhao, Jin Huang & Maarten de Rijke** |
 | Principles and Theories: Past, Present and Future | |
-|              | **Adam Roegiest** <br/> Going Back to The Future |
-|              | **Kidist Mekonnen and Maarten de Rijke** <br/> Beyond the Next Result: Optimizing for Long Term Goals |
+|              | **Going Back to The Future** <br/> **Adam Roegiest** |
+|              | **Beyond the Next Result: Optimizing for Long Term Goals** <br/> **Kidist Mekonnen and Maarten de Rijke**  |
 | Ethics, Fairness and Values |  |
-|              | **Bhaskar Mitra** <br/> Re-centering Search on Societal Needs |
-|              | **David Vos, Jin Huang & Maarten de Rijke** <br/> The Role of LLMs in Democratic News Rec Sys |
-|              | **Jasmin Kareem and Maarten de Rijke** <br/> Explainability for Engineers: A Path Forward … |
+|              |  **Re-centering Search on Societal Needs** <br/> **Bhaskar Mitra** |
+|              |  **The Role of LLMs in Democratic News Rec Sys** <br/> **David Vos, Jin Huang & Maarten de Rijke** |
+|              |  **Explainability for Engineers: A Path Forward …** <br/> **Jasmin Kareem and Maarten de Rijke** |
 | Visions and Applications: Dangers and Harms |   |
-|              | **Paul Kantor** <br/> IR can help us survive the LLM revolution |
-|              | **Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas!** <br/> No One Attacks Live This |
-|              | **Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas** <br/> On the Challenges of DSI in Conversational IR |
+|              |  **IR can help us survive the LLM revolution** <br/> **Paul Kantor** |
+|              |  **No One Attacks Live This** <br/> **Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas!** |
+|              |  **On the Challenges of DSI in Conversational IR** <br/> **Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas** |
 
 
  
