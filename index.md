@@ -40,6 +40,7 @@ If you are interested in presenting your views, submit an abstract only (approx.
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none;"> Important Dates </a>
 Submission Deadlines: February 25, 2024
+Workshop: March 24, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none;"> Schedule </a>
 
