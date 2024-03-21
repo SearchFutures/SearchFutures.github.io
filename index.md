@@ -42,8 +42,8 @@ If you are interested in presenting your views, submit an abstract only (approx.
 Submission Deadlines: February 25, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none;"> Schedule </a>
-
-| ------------- | --------------- |
+|               |                 |
+|-------------|---------------|
 | Invited Talks |                 |
 |              | **Suzan Verberne**<br/> **Information Retrieval in the age of LLMs** |
 |              | **Bill Hersh** <br/> **Search still matters in era of LLMs** |
