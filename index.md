@@ -43,7 +43,7 @@ Submission Deadlines: February 25, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none;"> Schedule </a>
 
-<table>
+<table style="border-collapse: collapse; border: 1px solid black;">
 <!--   <thead>
     <tr>
       <th>Event</th>
