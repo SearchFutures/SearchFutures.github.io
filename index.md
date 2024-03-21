@@ -43,7 +43,7 @@ Submission Deadlines: February 25, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none;"> Schedule </a>
 
-<table style="border-collapse: collapse; border: 1px solid black;">
+<table style="border-collapse: collapse;">
 <!--   <thead>
     <tr>
       <th>Event</th>
@@ -104,8 +104,8 @@ Submission Deadlines: February 25, 2024
       <td>    <h3>Going Back to The Future   </h3>   Adam Roegiest    </td>
     </tr>
    <tr>
-      <td>   </td>
-      <td>    <h3>Beyond the Next Result: Optimizing for Long Term Goals   </h3>   Kidist Mekonnen and Maarten de Rijke    </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
+      <td style="border-bottom: 1px solid black; padding: 10px;">    <h3>Beyond the Next Result: Optimizing for Long Term Goals   </h3>   Kidist Mekonnen and Maarten de Rijke    </td>
     </tr>
    <tr>
       <td> <h4>Ethics, Fairness and Values</h4>  </td>
