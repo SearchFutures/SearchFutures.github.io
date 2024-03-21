@@ -57,7 +57,7 @@ Submission Deadlines: February 25, 2024
     </tr>
     <tr>
       <td>     </td>
-      <td> <h2>Information Retrieval in the age of LLMs<h2>   <br/>    Suzan Verberne    </td>
+      <td> <h2>Information Retrieval in the age of LLMs</h2>   <br/>    Suzan Verberne    </td>
     </tr>
     <tr>
       <td>    </td>
