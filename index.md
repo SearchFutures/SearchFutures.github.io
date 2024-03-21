@@ -52,7 +52,7 @@ Submission Deadlines: February 25, 2024
   </thead> -->
   <tbody>
     <tr>
-      <td> <h4>Invited Talks</h4> </td>
+      <td style="padding: 5px; width: 50%;"> <h5>Invited Talks</h5> </td>
       <td>        </td>
     </tr>
     <tr>
@@ -76,11 +76,11 @@ Submission Deadlines: February 25, 2024
       <td>   <h3>To be Determined   </h3>   Negar Arabzadeh    </td>
     </tr>
     <tr>
-      <td> </td>
-      <td>   <h3>Trustworthy information systems   </h3>    Ian Soboroff    </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;">   <h3>Trustworthy information systems   </h3>    Ian Soboroff    </td>
     </tr>
     <tr>
-      <td> <h4>Visions and Applications: Implications and Ramifications</h4> </td>
+      <td style="padding: 5px; width: 50%;"> <h5>Visions and Applications: Implications and Ramifications</h5> </td>
       <td>        </td>
     </tr>
     <tr>
@@ -92,11 +92,11 @@ Submission Deadlines: February 25, 2024
       <td>    <h3> Healthcare Applications IR+LLMs   </h3>   Zain Hasan       </td>
     </tr>
    <tr>
-      <td>   </td>
-      <td>   <h3>Can LLMs Serve as User Simulators for Rec Sys?   </h3>   Yuyue Zhao, Jin Huang & Maarten de Rijke     </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;">   <h3>Can LLMs Serve as User Simulators for Rec Sys?   </h3>   Yuyue Zhao, Jin Huang & Maarten de Rijke     </td>
     </tr>
    <tr>
-      <td> <h4>Principles and Theories: Past, Present and Future</h4>  </td>
+      <td style="padding: 5px; width: 50%;"> <h5>Principles and Theories: Past, Present and Future</h5>  </td>
       <td>    </td>
     </tr>
    <tr>
@@ -108,7 +108,7 @@ Submission Deadlines: February 25, 2024
       <td style="border-bottom: 1px solid black; padding: 10px;">    <h3>Beyond the Next Result: Optimizing for Long Term Goals   </h3>   Kidist Mekonnen and Maarten de Rijke    </td>
     </tr>
    <tr>
-      <td> <h4>Ethics, Fairness and Values</h4>  </td>
+      <td style="padding: 5px; width: 50%;"> <h5>Ethics, Fairness and Values</h5>  </td>
       <td>    </td>
     </tr>
    <tr>
@@ -120,11 +120,11 @@ Submission Deadlines: February 25, 2024
       <td>    <h3>The Role of LLMs in Democratic News Rec Sys   </h3>   David Vos, Jin Huang & Maarten de Rijke    </td>
     </tr>
    <tr>
-      <td>   </td>
-      <td>    <h3>Explainability for Engineers: A Path Forward …   </h3>   Jasmin Kareem and Maarten de Rijke    </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;">    <h3>Explainability for Engineers: A Path Forward …   </h3>   Jasmin Kareem and Maarten de Rijke    </td>
     </tr>
    <tr>
-      <td>  <h4>Visions and Applications: Dangers and Harms</h4> </td>
+      <td style="padding: 5px; width: 50%;">  <h5>Visions and Applications: Dangers and Harms</h5> </td>
       <td>    </td>
     </tr>
    <tr>
