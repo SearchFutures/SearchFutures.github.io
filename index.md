@@ -80,11 +80,11 @@ Workshop: March 24, 2024
       <td>  </td>
       <td>    <h3>Ubiquitous Finding Engines   </h3>   Raman Chandrasekar    </td>
     </tr>
-     <tr>
+    <tr>
       <td> </td>
       <td>   <h3> Evaluation of Information Access Systems in the Generative Era </h3>   Negar Arabzadeh    </td>
     </tr>
-     <tr>
+    <tr>
       <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
       <td style="border-bottom: 1px solid gray; padding: 10px;">    <h3>IR can help us survive the LLM revolution   </h3>   Paul Kantor    </td>
     </tr>
@@ -92,7 +92,7 @@ Workshop: March 24, 2024
       <td style="padding: 5px; width: 50%;"> <h3>Lighting Talks Round 2</h3> </td>
       <td>   <b>11am-12.30am</b>     </td>
     </tr>
-      <tr>
+    <tr>
       <td>     </td>
       <td> <h3>Information Retrieval in the age of LLMs</h3>    Suzan Verberne    </td>
     </tr>
@@ -100,11 +100,11 @@ Workshop: March 24, 2024
       <td > </td>
       <td >   <h3>Trustworthy information systems</h3>    Ian Soboroff    </td>
     </tr>
-      <tr>
+    <tr>
       <td>   </td>
       <td>   <h3> No One Attacks Live This!  </h3>   Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas    </td>
     </tr>
-      <tr>
+    <tr>
       <td >   </td>
       <td>    <h3>Explainability for Engineers: A Path Forward …   </h3>   Jasmin Kareem and Maarten de Rijke    </td>
     </tr>
@@ -128,6 +128,7 @@ Workshop: March 24, 2024
       <td>   </td>
       <td>    <h3>The Role of LLMs in Democratic News Rec Sys   </h3>   David Vos, Jin Huang & Maarten de Rijke    </td>
     </tr>
+    <tr>
       <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
       <td style="border-bottom: 1px solid black; padding: 10px;">    <h3>On the Challenges of DSI in Conversational IR   </h3>   Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas    </td>
     </tr>
