@@ -57,64 +57,68 @@ Workshop: March 24, 2024
   </thead> -->
   <tbody>
     <tr>
-      <td style="padding: 5px; width: 50%;"> <h5>Invited Talks</h5> </td>
-      <td>        </td>
+      <td style="padding: 5px; width: 50%;"> <h3>Lighting Talks Round 1</h3> </td>
+      <td>  <b>  9.30am-10.30am </b>    </td>
     </tr>
     <tr>
       <td>     </td>
-      <td> <h3>Information Retrieval in the age of LLMs</h3>    Suzan Verberne    </td>
+      <td> <h3>Information Retrieval in the Age of RAG Systems</h3>   Fabrizio Silvestri    </td>
     </tr>
     <tr>
       <td>    </td>
       <td>   <h3>Search still matters in era of LLMs   </h3>   Bill Hersh         </td>
     </tr>
     <tr>
+      <td>   </td>
+      <td>    <h3> Healthcare Applications IR+LLMs   </h3>   Zain Hasan       </td>
+    </tr>
+    <tr>
       <td>    </td>
       <td>   <h3>IR for Complex Information Needs</h3>    Eugene Yang         </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td>   <h3>Information Retrieval in the Age of RAG Systems   </h3>    Fabrizio Silvestri    </td>
-    </tr>
-     <tr>
-      <td> </td>
-      <td>   <h3> Evaluation of Information Access Systems in the Generative Era </h3>   Negar Arabzadeh    </td>
-    </tr>
-    <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">   <h3>Trustworthy information systems</h3>    Ian Soboroff    </td>
-    </tr>
-    <tr>
-      <td style="padding: 5px; width: 50%;"> <h5>Visions and Applications: Implications and Ramifications</h5> </td>
-      <td>        </td>
     </tr>
     <tr>
       <td>  </td>
       <td>    <h3>Ubiquitous Finding Engines   </h3>   Raman Chandrasekar    </td>
     </tr>
+     <tr>
+      <td> </td>
+      <td>   <h3> Evaluation of Information Access Systems in the Generative Era </h3>   Negar Arabzadeh    </td>
+    </tr>
+     <tr>
+      <td>   </td>
+      <td>    <h3>IR can help us survive the LLM revolution   </h3>   Paul Kantor    </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; width: 50%;"> <h3>Lighting Talks Round 2</h3> </td>
+      <td>   <b>11am-12.30am</b>     </td>
+    </tr>
+      <tr>
+      <td>     </td>
+      <td> <h3>Information Retrieval in the age of LLMs</h3>    Suzan Verberne    </td>
+    </tr>
+    <tr>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;">   <h3>Trustworthy information systems</h3>    Ian Soboroff    </td>
+    </tr>
+      <tr>
+      <td>   </td>
+      <td>   <h3> No One Attacks Live This!  </h3>   Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas    </td>
+    </tr>
+      <tr>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;">    <h3>Explainability for Engineers: A Path Forward …   </h3>   Jasmin Kareem and Maarten de Rijke    </td>
+    </tr>
     <tr>
       <td>   </td>
-      <td>    <h3> Healthcare Applications IR+LLMs   </h3>   Zain Hasan       </td>
+      <td>    <h3>Going Back to The Future   </h3>   Adam Roegiest    </td>
     </tr>
    <tr>
       <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
       <td style="border-bottom: 1px solid gray; padding: 10px;">   <h3>Can LLMs Serve as User Simulators for Rec Sys?   </h3>   Yuyue Zhao, Jin Huang & Maarten de Rijke     </td>
     </tr>
    <tr>
-      <td style="padding: 5px; width: 50%;"> <h5>Principles and Theories: Past, Present and Future</h5>  </td>
-      <td>    </td>
-    </tr>
-   <tr>
-      <td>   </td>
-      <td>    <h3>Going Back to The Future   </h3>   Adam Roegiest    </td>
-    </tr>
-   <tr>
       <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
       <td style="border-bottom: 1px solid black; padding: 10px;">    <h3>Beyond the Next Result: Optimizing for Long Term Goals   </h3>   Kidist Mekonnen and Maarten de Rijke    </td>
-    </tr>
-   <tr>
-      <td style="padding: 5px; width: 50%;"> <h5>Ethics, Fairness and Values</h5>  </td>
-      <td>    </td>
     </tr>
    <tr>
       <td>   </td>
@@ -124,23 +128,6 @@ Workshop: March 24, 2024
       <td>   </td>
       <td>    <h3>The Role of LLMs in Democratic News Rec Sys   </h3>   David Vos, Jin Huang & Maarten de Rijke    </td>
     </tr>
-   <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;">   </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">    <h3>Explainability for Engineers: A Path Forward …   </h3>   Jasmin Kareem and Maarten de Rijke    </td>
-    </tr>
-   <tr>
-      <td style="padding: 5px; width: 50%;">  <h5>Visions and Applications: Dangers and Harms</h5> </td>
-      <td>    </td>
-    </tr>
-   <tr>
-      <td>   </td>
-      <td>    <h3>IR can help us survive the LLM revolution   </h3>   Paul Kantor    </td>
-    </tr>
-   <tr>
-      <td>   </td>
-      <td>   <h3> No One Attacks Live This!  </h3>   Panagiotis Eustratiadis, Yongkang Li & Evangelos Kanoulas    </td>
-    </tr>
-   <tr>
       <td>   </td>
       <td>    <h3>On the Challenges of DSI in Conversational IR   </h3>   Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas    </td>
     </tr>
