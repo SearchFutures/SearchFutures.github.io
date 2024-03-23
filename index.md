@@ -78,7 +78,7 @@ Workshop: March 24, 2024
     </tr>
      <tr>
       <td> </td>
-      <td>   <h3>To be Confirmed   </h3>   Negar Arabzadeh    </td>
+      <td>   <h3> Evaluation of Information Access Systems in the Generative Era </h3>   Negar Arabzadeh    </td>
     </tr>
     <tr>
       <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
