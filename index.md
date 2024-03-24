@@ -133,8 +133,8 @@ Workshop: March 24, 2024
       <td style="border-bottom: 1px solid black; padding: 10px;">    <h3>On the Challenges of DSI in Conversational IR   </h3>   Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas    </td>
     </tr>
       <tr>
-      <td style="padding: 5px; width: 50%;"> <h3>Summary and Discussion</h3> </td>
-      <td>   <b>1.30pm-4.30pm</b>     </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h3>Summary and Discussion</h3> </td>
+      <td style="border-bottom: 1px solid black; padding: 10px;">   <b>1.30pm-4.30pm</b>     </td>
     </tr>
   </tbody>
 </table>
