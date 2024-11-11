@@ -13,7 +13,12 @@ The purpose of this workshop is to serve as a dedicated platform for the IR comm
 
 As we stand at the intersection of technological innovation and scholarly introspection, we find ourselves confronted with a multitude of pertinent questions. How can we harness the power of AI to enhance the effectiveness of information retrieval?  As generative LLMs can put their confabulations onto the Web at superhuman speed, can the principles and concepts of IR protect us when we search? What safeguards do we need to put in place to protect the integrity and privacy of the data we handle? How can we ensure that the fruits of our research are accessible and beneficial to all members of society? Can the principles of provenance-tracking be adapted to tell us whether a human or an LLM wrote the crucial phrases in a curated answer? These are just a few examples of the pressing issues we face as we navigate this dynamic, new IR landscape.
 
-In our pursuit of “search futures”, this workshop aims to provide the first of several forums, for the community to discuss and contribute to our collective agenda for the research directions and field. We hope that together, we can chart a course that not only safeguards IR’s continued relevance and vitality but also propels it into uncharted territories of discovery and exploration.
+The Second Search Futures Workshop aims to provide a much-needed forum for the IR community to continue discussing emerging challenges to the field and community. Our goals are to:
+– Continue our workshop series for open conversations about possible Search Futures,
+– Provide a forum at ECIR to discuss the pressing and emerging issues our field faces, and,
+– Produce a report detailing the initial outcomes of this second workshop on Search Futures.
+– Continue this ambitious series for Search Future workshops at subsequent IR conferences to include further and wider perspectives.
+
 <br/>
 <br/>
 <br/>
@@ -43,10 +48,11 @@ Topics of interest may include, but are not limited to:
 If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/conferences/?conf=searchfuturesecir24">Link</a>. The abstract will be evaluated through a single-blind process.
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
-Submission Deadlines: February 25, 2024<br/>
-Workshop: March 24, 2024
+Submission Deadlines: TBD<br/>
+Workshop: TBD
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
+TBD
 
 <table style="border-collapse: collapse;">
 <!--   <thead>
@@ -148,15 +154,15 @@ Workshop: March 24, 2024
 
 ## <a name='Organisers' style="color: inherit; text-decoration: none;"> Organisers </a>
 
-**Leif Azzopardi**, University of Strathclyde, leif.azzopardi@strath.ac.uk
-
 **Charlie Clarke**, University of Waterloo, claclark@gmail.com
 
 **Paul Kantor**, University of Wisconsin Madison, paul.kantor@rutgers.edu
 
-**Bhaskar Mitra**, Microsoft Research, bmitra@microsoft.com
+**Adam Roegiest**, VP of Research and Technology at Zuva, adam@roegiest.com
 
-**Johanne Trippas**, RMIT University, j.trippas@rmit.edu.au
+**Ian Soboroff**, National Institute of Standards and Technology, ian.soboroff@nist.gov
+
+**Bhaskar Mitra**, Microsoft Research, bmitra@microsoft.com
 
 **Zhaochun Ren**, Leiden University, z.ren@liacs.leidenuniv.nl
 
