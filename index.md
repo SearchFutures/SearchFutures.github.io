@@ -62,13 +62,13 @@ Topics of interest may include, but are not limited to:
   - How environmentally responsible are the IR systems we are making?
 
 - IR and people, users, consumers, creators,..
- - Are creators still needed in the age of generative AI?
- - Is IR helping overcome the digital divide?
- - IsIRaddressingthedisparityininformationaccess,especiallyinmarginalized communities?
- - Should IR systems curate information for users to avoid information overload?
- - What is the future of results presentation?
- - How can we develop IR systems integrated with IoT?
- - How do information systems influence user’s emotions?
+  - Are creators still needed in the age of generative AI?
+  - Is IR helping overcome the digital divide?
+  - IsIRaddressingthedisparityininformationaccess,especiallyinmarginalized communities?
+  - Should IR systems curate information for users to avoid information overload?
+  - What is the future of results presentation?
+  - How can we develop IR systems integrated with IoT?
+  - How do information systems influence user’s emotions?
 
 - Emerging technologies and trends
   - How can IR systems leverage blockchain technology for data integrity and transparency?
