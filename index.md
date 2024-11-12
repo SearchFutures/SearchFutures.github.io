@@ -3,7 +3,7 @@ layout: page
 description: ""
 ---
 
-## <a name='About Us' style="color: inherit; text-decoration: none; text-align: center;"> The Search Futures Workshop </a> 
+## <a name='About Us' style="color: black; text-decoration: none; text-align: center;"> The Search Futures Workshop </a> 
 <br/>
 The field of Information Retrieval (IR) is undergoing a profound transformation, spurred by the continual evolution and breakthroughs in the realm of artificial intelligence and the broader changing research landscape. This reformation period finds our field and community in a state of introspection, as we contemplate and reevaluate our role and significance within the broader context of computing and information sciences. This juncture in our journey serves as an opportune moment to convene and engage in a deep and purposeful dialogue concerning the future trajectory of our field. We must collectively confront the myriad challenges and potential threats that loom on the horizon, all while embracing the newfound opportunities and bold research inquiries that emerge as we embark on a re-imagined quest for the next generation “memex” machine.
 
@@ -26,7 +26,7 @@ The Second Search Futures Workshop aims to provide a much-needed forum for the I
 <br/>
 <br/>
 
-## <a name='Call for Speakers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Speakers </a> <br/>
+## <a name='Call for Speakers' style="color: black; text-decoration: none;text-align: center;"> Call for Speakers </a> <br/>
 <br/>
 With advances in AI, it is claimed that the results of search across all of digitized knowledge can be digested, summarized, and focused for any inquirer. If this is true, has the problem that IR set out to address now been solved?  Is there no need for improvements in search or recommendation -- the systems will tell us what ought to want to know. This workshop asks: is there a place for the guiding principles of IR, in this brave new world? What are the new questions, and can we find a path to answers, by extending the ideas that have brought us here? Do we need new ideas altogether?
 We are looking for speakers to present their views and positions about the future of search.
@@ -77,11 +77,11 @@ Topics of interest may include, but are not limited to:
 
 If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/conferences/?conf=searchfuturesecir24">Link</a>. The abstract will be evaluated through a single-blind process.
 
-## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
+## <a name='Important Dates' style="color: black; text-decoration: none; text-align: center;"> Important Dates </a>
 Submission Deadlines: TBD<br/>
 Workshop: TBD
 
-## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
+## <a name='Schedule' style="color: black; text-decoration: none; text-align: center;"> Schedule </a>
 TBD
 
 <table style="border-collapse: collapse;">
@@ -182,7 +182,7 @@ TBD
  
 
 
-## <a name='Organisers' style="color: inherit; text-decoration: none;"> Organisers </a>
+## <a name='Organisers' style="color: black; text-decoration: none;"> Organisers </a>
 
 **Charlie Clarke**, University of Waterloo, claclark@gmail.com
 
