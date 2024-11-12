@@ -34,7 +34,7 @@ We are looking for speakers to present their views and positions about the futur
 Topics of interest may include, but are not limited to:
 
 - IR and related fields
-  - What the field of IR is tackling, should be tackling, is not tackling,... and is such research is even important?
+  - What the field of IR is tackling, should be tackling, is not tackling, ..., and is such research is even important?
   - What is IR any more in the context of recommender systems, NLP, ML, AI, etc.?
   - What are the core questions we are answering? Are they worth answering?
 
