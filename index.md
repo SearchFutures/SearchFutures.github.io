@@ -88,7 +88,7 @@ TBD
 
 **Charlie Clarke**, University of Waterloo
 
-**Paul Kantor**, University of Wisconsin Madison
+**Paul Kantor**, Rutgers University, USA.
 
 **Adam Roegiest**, VP of Research and Technology at Zuva
 
