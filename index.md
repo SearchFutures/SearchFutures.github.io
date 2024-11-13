@@ -86,17 +86,17 @@ TBD
 
 ## <a name='Organisers' style="color: black !important; text-decoration: none;"> Organisers </a>
 
-**Charlie Clarke**, University of Waterloo, claclark@gmail.com
+**Charlie Clarke**, University of Waterloo
 
-**Paul Kantor**, University of Wisconsin Madison, paul.kantor@rutgers.edu
+**Paul Kantor**, University of Wisconsin Madison
 
-**Adam Roegiest**, VP of Research and Technology at Zuva, adam@roegiest.com
+**Adam Roegiest**, VP of Research and Technology at Zuva
 
-**Ian Soboroff**, National Institute of Standards and Technology, ian.soboroff@nist.gov
+**Ian Soboroff**, National Institute of Standards and Technology
 
-**Bhaskar Mitra**, Microsoft Research, bmitra@microsoft.com
+**Johanne Trippas**, RMIT University
 
-**Zhaochun Ren**, Leiden University, z.ren@liacs.leidenuniv.nl
+**Zhaochun Ren**, Leiden University
 
 
 
