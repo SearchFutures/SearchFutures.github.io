@@ -78,6 +78,11 @@ Topics of interest may include, but are not limited to:
 If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/conferences/?conf=searchfuturesecir24">Link</a>. The abstract will be evaluated through a single-blind process.
 
 ## <a name='Important Dates' style="color: black; text-decoration: none; text-align: center;"> Important Dates </a>
+ 
+Monday 27 January 2025 (AoE): ECIR Early Bird Submission<br/>
+Wednesday 29 January 2025 (AoE): ECIR Early Bird Acceptance<br/>
+Monday 3 March 2025 (AoE): Normal submission<br/>
+Monday 10 March 2025 (AoE): Normal Acceptance<br/>
 Submission Deadlines: TBD<br/>
 Workshop: TBD
 
