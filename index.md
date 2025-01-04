@@ -75,7 +75,7 @@ Topics of interest may include, but are not limited to:
   - What impact might quantum computing have on the future of IR?
 
 
-If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/conferences/?conf=searchfuturesecir24">Link</a>. The abstract will be evaluated through a single-blind process.
+If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/my/conference?conf=searchfuturesecir25">Link</a>. The abstract will be evaluated through a single-blind process.
 
 ## <a name='Important Dates' style="color: black; text-decoration: none; text-align: center;"> Important Dates </a>
  
