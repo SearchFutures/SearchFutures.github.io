@@ -105,7 +105,7 @@ TBD
 
 ## Other Reference
 
-The 1th Search Futures Workshop can be found in this link <a href="https://searchfutures.github.io/searchfuture01/">Link</a>
+The 1th Search Futures Workshop can be found in this <a href="https://searchfutures.github.io/searchfuture01/">Link</a>
 
 
 
