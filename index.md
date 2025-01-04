@@ -83,8 +83,6 @@ Monday 27 January 2025 (AoE): ECIR Early Bird Submission<br/>
 Wednesday 29 January 2025 (AoE): ECIR Early Bird Acceptance<br/>
 Monday 3 March 2025 (AoE): Normal submission<br/>
 Monday 10 March 2025 (AoE): Normal Acceptance<br/>
-Submission Deadlines: TBD<br/>
-Workshop: TBD
 
 ## <a name='Schedule' style="color: black !important; text-decoration: none; text-align: center;"> Schedule </a>
 TBD
