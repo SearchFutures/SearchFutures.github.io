@@ -22,6 +22,7 @@ The Second Search Futures Workshop aims to provide a much-needed forum for the I
 
 - Continue this ambitious series for Search Future workshops at subsequent IR conferences to include further and wider perspectives.
 
+More details about the previous workshop: <a href="https://searchfutures.github.io/searchfuture01/">The 1th Search Futures Workshop</a>
 <br/>
 <br/>
 <br/>
@@ -101,11 +102,6 @@ TBD
 **Johanne Trippas**, RMIT University
 
 **Zhaochun Ren**, Leiden University
-
-
-## Other Reference
-
-The 1th Search Futures Workshop can be found in this <a href="https://searchfutures.github.io/searchfuture01/">Link</a>
 
 
 
