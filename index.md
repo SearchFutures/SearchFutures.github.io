@@ -22,10 +22,13 @@ The Second Search Futures Workshop aims to provide a much-needed forum for the I
 
 - Continue this ambitious series for Search Future workshops at subsequent IR conferences to include further and wider perspectives.
 
+
+<br/>
+<br/>
+<br/>
+
+## <a name='Call for Speakers' style="color: black !important; text-decoration: none;text-align: center;"> Previous Workshop </a> <br/>
 More details about the previous workshop: <a href="https://searchfutures.github.io/searchfuture01/">The 1th Search Futures Workshop</a>
-<br/>
-<br/>
-<br/>
 
 ## <a name='Call for Speakers' style="color: black !important; text-decoration: none;text-align: center;"> Call for Speakers </a> <br/>
 <br/>
