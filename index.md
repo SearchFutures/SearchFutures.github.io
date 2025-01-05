@@ -24,11 +24,12 @@ The Second Search Futures Workshop aims to provide a much-needed forum for the I
 
 
 <br/>
-<br/>
-<br/>
+
 
 ## <a name='Call for Speakers' style="color: black !important; text-decoration: none;text-align: center;"> Previous Workshop </a> <br/>
 Details about the <a href="https://searchfutures.github.io/searchfuture01/">The 1th Search Futures Workshop</a>
+
+<br/>
 
 ## <a name='Call for Speakers' style="color: black !important; text-decoration: none;text-align: center;"> Call for Speakers </a> <br/>
 <br/>
@@ -81,6 +82,8 @@ Topics of interest may include, but are not limited to:
 
 If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our EasyChair <a href="https://easychair.org/my/conference?conf=searchfuturesecir25">Link</a>. The abstract will be evaluated through a single-blind process.
 
+<br/>
+
 ## <a name='Important Dates' style="color: black; text-decoration: none; text-align: center;"> Important Dates </a>
  
 Monday 27 January 2025 (AoE): ECIR Early Bird Submission<br/>
@@ -88,9 +91,11 @@ Wednesday 29 January 2025 (AoE): ECIR Early Bird Acceptance<br/>
 Monday 3 March 2025 (AoE): Normal submission<br/>
 Monday 10 March 2025 (AoE): Normal Acceptance<br/>
 
+<br/>
+
 ## <a name='Schedule' style="color: black !important; text-decoration: none; text-align: center;"> Schedule </a>
 TBD
-
+<br/>
 
 ## <a name='Organisers' style="color: black !important; text-decoration: none;"> Organisers </a>
 
