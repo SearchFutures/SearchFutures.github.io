@@ -26,9 +26,7 @@
                     </li> -->
                     {% assign anchor_names = 'About Us, Call for Speakers, Important Dates, Schedule, Organisers' | split:', '%}
                     {% for name in anchor_names %}                                
-                        <li>
-                            <a href="{{ name | prepend:'#'}}">{{ name }}</a>
-                        </li>
+
                     {% endfor %}
                 </ul>
             </div>
