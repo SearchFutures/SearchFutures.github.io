@@ -26,7 +26,7 @@ The Second Search Futures Workshop aims to provide a much-needed forum for the I
 <br/>
 
 
-## <a name='Call for Speakers' style="color: black !important; text-decoration: none;text-align: center;"> Previous Workshop </a> <br/>
+## <a name='Previous Workshop' style="color: black !important; text-decoration: none;text-align: center;"> Previous Workshop </a> <br/>
 Details about the <a href="https://searchfutures.github.io/searchfuture01/">The 1th Search Futures Workshop</a>
 
 <br/>
