@@ -94,8 +94,16 @@ Monday 10 March 2025 (AoE): Normal Acceptance<br/>
 <br/>
 
 ## <a name='Schedule' style="color: black !important; text-decoration: none; text-align: center;"> Schedule </a>
-TBD
-<br/>
+- Welcome
+- Lightning Talks 1 (9:30-10:30)
+- Coffee (10:30-11:00)
+- Lightning Talks 2 (11:00-12:30)
+- Lunch (12:30-14:30)
+- Break out (14:30-16:00)
+- Coffee (16:00-16:30)
+- Summary (16:30-17:30)
+- Discussion (17:30-18:00)
+- Food and drinks (18:00-...)
 
 ## <a name='Organisers' style="color: black !important; text-decoration: none;"> Organisers </a>
 
