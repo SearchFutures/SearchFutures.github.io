@@ -23,7 +23,7 @@ The Third Search Futures Workshop aims to provide a much-needed forum for the IR
 ## <a name='Previous Workshop' style="color: black !important; text-decoration: none;text-align: center;"> Previous Workshop </a>
 
 - Details about the <a href="https://searchfutures.github.io/searchfuture01/">**1st Search Futures Workshop**</a>
-- Details about the <a href="https://searchfutures.github.io/">**2nd Search Futures Workshop**</a>
+- Details about the <a href="https://searchfutures.github.io/searchfuture02/">**2nd Search Futures Workshop**</a>
 
 ## <a name='Call for Speakers' style="color: black !important; text-decoration: none;text-align: center;"> Call for Speakers </a>
 
