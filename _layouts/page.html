@@ -2,39 +2,6 @@
 layout: default
 ---
 
-{% unless page.url contains 'searchfuture02' %}
-<style>
-/* Enhanced navbar styling for 3rd workshop with blue background */
-.navbar-custom {
-    background: rgba(0, 40, 85, 0.92) !important;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-}
-
-.navbar-custom .navbar-nav > li > a {
-    color: #ffffff !important;
-    font-weight: 500;
-}
-
-.navbar-custom .navbar-nav > li > a:hover,
-.navbar-custom .navbar-nav > li > a:focus {
-    color: #4fc3f7 !important;
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
-.intro-header {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.intro-header .site-heading h1,
-.intro-header .site-heading .subheading {
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
-}
-</style>
-{% endunless %}
-
 <!-- Page Header -->
 {% if page.url contains 'searchfuture02' %}
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/img/palazzoPfanner.jpg')">
