@@ -79,7 +79,7 @@ Topics of interest may include, but are not limited to:
 
 **Submission Guidelines:**
 
-If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our <a href="https://easychair.org/my/conference?conf=searchfuturesecir25">**EasyChair**</a>. The abstract will be evaluated through a single-blind process.
+If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our <a href="https://easychair.org/my/conference?conf=searchfuturesecir26">**EasyChair**</a>. The abstract will be evaluated through a single-blind process.
 
 ## <a name='Important Dates' style="color: black; text-decoration: none; text-align: center;"> Important Dates </a>
 
@@ -100,21 +100,21 @@ If you are interested in presenting your views, submit an abstract only (approx.
 
 ## <a name='Organisers' style="color: black !important; text-decoration: none;"> Organisers </a>
 
-**Leif Azzopardi**
+**Leif Azzopardi**, University of Strathclyde
 
-**Charles Clarke**
+**Charles Clarke**, University of Waterloo
 
-**Claudia Hauff**
+**Claudia Hauff**, Spotify
 
-**Yubin Kim**
+**Yubin Kim**, Vody
 
-**Adam Roegiest**
+**Adam Roegiest**, Zuva
 
-**Johanne R. Trippas**
+**Johanne R. Trippas**, RMIT University
 
-**Zhaochun Ren**
+**Zhaochun Ren**, Leiden University
 
-**Saber Zerhoudi**
+**Saber Zerhoudi**, Universität Passau
 
 
 
