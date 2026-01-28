@@ -83,7 +83,7 @@ If you are interested in presenting your views, submit an abstract only (approx.
 
 ## <a name='Important Dates' style="color: black; text-decoration: none; text-align: center;"> Important Dates </a>
 
-- **Sunday, 1 February 2026 (AoE)**: Talk Submission Deadline
+- <span style="color: red; font-weight: bold;">**Saturday, 14 February 2026 (AoE)**: Talk Submission Deadline (Extended!)</span>
 - **Saturday, 21 February 2026 (AoE)**: Notification of Acceptance
 
 ## <a name='Schedule' style="color: black !important; text-decoration: none; text-align: center;"> Schedule </a>
