@@ -81,22 +81,17 @@ Topics of interest may include, but are not limited to:
 
 If you are interested in presenting your views, submit an abstract only (approx. one page / up to 600 words along with any links to references) directly into our <a href="https://easychair.org/my/conference?conf=searchfuturesecir26">**EasyChair**</a>. The abstract will be evaluated through a single-blind process.
 
-## <a name='Important Dates' style="color: black; text-decoration: none; text-align: center;"> Important Dates </a>
+## <a name='Important-Dates' style="text-decoration: none; color: inherit;"> Important Dates </a>
 
-- <span style="color: red; font-weight: bold;">**Saturday, 14 February 2026 (AoE)**: Talk Submission Deadline (Extended!)</span>
-- **Saturday, 21 February 2026 (AoE)**: Notification of Acceptance
+* **Saturday, 14 February 2026 (AoE):** Talk Submission Deadline
+* **Saturday, 21 February 2026 (AoE):** Notification of Acceptance
+* **Thursday, 2 April 2026 (AoE):** Full-day event
 
-## <a name='Schedule' style="color: black !important; text-decoration: none; text-align: center;"> Schedule </a>
-- Welcome (9:00-9:30)
-- Lightning Talks 1 (9:30-10:30)
-- Coffee (10:30-11:00)
-- Lightning Talks 2 (11:00-12:30)
-- Lunch (12:30-14:30)
-- Break out (14:30-16:00)
-- Coffee (16:00-16:30)
-- Summary (16:30-17:30)
-- Discussion (17:30-18:00)
-- Food and drinks (18:00-...)
+---
+
+## <a name='Schedule' style="text-decoration: none; color: inherit;"> Schedule </a>
+
+**Coming soon...**
 
 ## <a name='Organisers' style="color: black !important; text-decoration: none;"> Organisers </a>
 
