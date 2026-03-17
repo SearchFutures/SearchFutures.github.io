@@ -94,7 +94,7 @@ If you are interested in presenting your views, submit an abstract only (approx.
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Welcome</span> <br><span style="font-size: 0.95em; color: #666;">9:00 - 9:30</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Welcome</span> </td>
       <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
