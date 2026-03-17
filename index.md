@@ -91,7 +91,7 @@ If you are interested in presenting your views, submit an abstract only (approx.
 
 ## <a name='Schedule' style="text-decoration: none; color: inherit;"> Schedule </a>
 
-- **Welcome (9:00-9:30)**
+- **Welcome**
 - **Lightning Talks 1 (9:30-10:30)**
   - *Analytical Search* - Yiteng Tu
   - *Trustworthiness as a Feature to Address in System Design and as an Educational Challenge for Media Literacy* - Jussi Karlgren
