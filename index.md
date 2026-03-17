@@ -91,7 +91,25 @@ If you are interested in presenting your views, submit an abstract only (approx.
 
 ## <a name='Schedule' style="text-decoration: none; color: inherit;"> Schedule </a>
 
-**Coming soon...**
+- **Welcome (9:00-9:30)**
+- **Lightning Talks 1 (9:30-10:30)**
+  - *Analytical Search* - Yiteng Tu
+  - *Trustworthiness as a Feature to Address in System Design and as an Educational Challenge for Media Literacy* - Jussi Karlgren
+  - *Toward a New Economic Ecosystem in Generative Information Retrieval* - Chen Xu
+  - *Evaluation Paradigm of the Future? A Case for Valid, Fair and Reproducible Evaluation with User Simulation* - Marcel Gohsen
+- **Coffee (10:30-11:00)**
+- **Lightning Talks 2 (11:00-12:30)**
+  - *From Search to Synthesis: Retrieval Beyond Similarity* - Jingfen Qiao
+  - *Rethinking Ranking in the Latent Space: Activation-Level Control for the Future of Search* - Yumeng Wang
+  - *What Should Search Retrieve Now?* - Eunice Son
+  - *Unifying User Information Need: Rethinking the Boundary Between Search and Recommendation* - Jujia Zhao
+  - *Feed Your Need by Information Farming* - Leif Azzopardi
+- **Lunch (12:30-14:30)**
+- **Break out (14:30-16:00)**
+- **Coffee (16:00-16:30)**
+- **Summary (16:30-17:30)**
+- **Discussion (17:30-18:00)**
+- **Food and drinks (18:00-...)**
 
 ## <a name='Organisers' style="color: black !important; text-decoration: none;"> Organisers </a>
 
