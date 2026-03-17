@@ -91,25 +91,54 @@ If you are interested in presenting your views, submit an abstract only (approx.
 
 ## <a name='Schedule' style="text-decoration: none; color: inherit;"> Schedule </a>
 
-- **Welcome**
-- **Lightning Talks 1 (9:30-10:30)**
-  - *Analytical Search* - Yiteng Tu
-  - *Trustworthiness as a Feature to Address in System Design and as an Educational Challenge for Media Literacy* - Jussi Karlgren
-  - *Toward a New Economic Ecosystem in Generative Information Retrieval* - Chen Xu
-  - *Evaluation Paradigm of the Future? A Case for Valid, Fair and Reproducible Evaluation with User Simulation* - Marcel Gohsen
-- **Coffee (10:30-11:00)**
-- **Lightning Talks 2 (11:00-12:30)**
-  - *From Search to Synthesis: Retrieval Beyond Similarity* - Jingfen Qiao
-  - *Rethinking Ranking in the Latent Space: Activation-Level Control for the Future of Search* - Yumeng Wang
-  - *What Should Search Retrieve Now?* - Eunice Son
-  - *Unifying User Information Need: Rethinking the Boundary Between Search and Recommendation* - Jujia Zhao
-  - *Feed Your Need by Information Farming* - Leif Azzopardi
-- **Lunch (12:30-14:30)**
-- **Break out (14:30-16:00)**
-- **Coffee (16:00-16:30)**
-- **Summary (16:30-17:30)**
-- **Discussion (17:30-18:00)**
-- **Food and drinks (18:00-...)**
+<table style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="padding: 5px; width: 50%;"> <h5>Lightning Talks 1 (9:30-10:30)</h5> </td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>     </td>
+      <td> <h3>Analytical Search</h3>    Yiteng Tu    </td>
+    </tr>
+    <tr>
+      <td>     </td>
+      <td> <h3>Trustworthiness as a feature to address in system design and as an educational challenge for media literacy</h3>    Jussi Karlgren    </td>
+    </tr>
+    <tr>
+      <td>     </td>
+      <td> <h3>Toward a New Economic Ecosystem in Generative Information Retrieval</h3>    Chen Xu    </td>
+    </tr>
+    <tr>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;"> <h3>Evaluation Paradigm of the Future? A Case for Valid, Fair and Reproducible Evaluation with User Simulation</h3>    Marcel Gohsen    </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; width: 50%;"> <h5>Lightning Talks 2 (11:00-12:30)</h5> </td>
+      <td>        </td>
+    </tr>
+    <tr>
+      <td>     </td>
+      <td> <h3>From Search to Synthesis: Retrieval Beyond Similarity</h3>    Jingfen Qiao    </td>
+    </tr>
+    <tr>
+      <td>     </td>
+      <td> <h3>Rethinking Ranking in the Latent Space: Activation-Level Control for the Future of Search</h3>    Yumeng Wang    </td>
+    </tr>
+    <tr>
+      <td>     </td>
+      <td> <h3>What Should Search Retrieve Now?</h3>    Eunice Son    </td>
+    </tr>
+    <tr>
+      <td>     </td>
+      <td> <h3>Unifying User Information Need: Rethinking the Boundary Between Search and Recommendation</h3>    Jujia Zhao    </td>
+    </tr>
+    <tr>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px;"> <h3>Feed Your Need by Information Farming</h3>    Leif Azzopardi    </td>
+    </tr>
+  </tbody>
+</table>
 
 ## <a name='Organisers' style="color: black !important; text-decoration: none;"> Organisers </a>
 
