@@ -94,11 +94,11 @@ If you are interested in presenting your views, submit an abstract only (approx.
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h5>Welcome (9:00-9:30)</h5> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">        </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Welcome</span> <br><span style="font-size: 0.95em; color: #666;">9:00 - 9:30</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
-      <td style="padding: 5px; width: 50%;"> <h5>Lightning Talks 1 (9:30-10:30)</h5> </td>
+      <td style="padding: 15px 10px; width: 40%; vertical-align: top;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Lightning Talks 1</span> <br><span style="font-size: 0.95em; color: #666;">9:30 - 10:30</span> </td>
       <td>        </td>
     </tr>
     <tr>
@@ -114,15 +114,15 @@ If you are interested in presenting your views, submit an abstract only (approx.
       <td> <h3>Toward a New Economic Ecosystem in Generative Information Retrieval</h3>    Chen Xu    </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 40%;"> </td>
       <td style="border-bottom: 1px solid gray; padding: 10px;"> <h3>Evaluation Paradigm of the Future? A Case for Valid, Fair and Reproducible Evaluation with User Simulation</h3>    Marcel Gohsen    </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h5>Coffee (10:30-11:00)</h5> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">        </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Coffee</span> <br><span style="font-size: 0.95em; color: #666;">10:30 - 11:00</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
-      <td style="padding: 5px; width: 50%;"> <h5>Lightning Talks 2 (11:00-12:30)</h5> </td>
+      <td style="padding: 15px 10px; width: 40%; vertical-align: top;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Lightning Talks 2</span> <br><span style="font-size: 0.95em; color: #666;">11:00 - 12:30</span> </td>
       <td>        </td>
     </tr>
     <tr>
@@ -142,32 +142,32 @@ If you are interested in presenting your views, submit an abstract only (approx.
       <td> <h3>Unifying User Information Need: Rethinking the Boundary Between Search and Recommendation</h3>    Jujia Zhao    </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> </td>
+      <td style="border-bottom: 1px solid gray; padding: 10px; width: 40%;"> </td>
       <td style="border-bottom: 1px solid gray; padding: 10px;"> <h3>Feed Your Need by Information Farming</h3>    Leif Azzopardi    </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h5>Lunch (12:30-14:30)</h5> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">        </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Lunch</span> <br><span style="font-size: 0.95em; color: #666;">12:30 - 14:30</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h5>Break out (14:30-16:00)</h5> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">        </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Break out</span> <br><span style="font-size: 0.95em; color: #666;">14:30 - 16:00</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h5>Coffee (16:00-16:30)</h5> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">        </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Coffee</span> <br><span style="font-size: 0.95em; color: #666;">16:00 - 16:30</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h5>Summary (16:30-17:30)</h5> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">        </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Summary</span> <br><span style="font-size: 0.95em; color: #666;">16:30 - 17:30</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
-      <td style="border-bottom: 1px solid gray; padding: 10px; width: 50%;"> <h5>Discussion (17:30-18:00)</h5> </td>
-      <td style="border-bottom: 1px solid gray; padding: 10px;">        </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Discussion</span> <br><span style="font-size: 0.95em; color: #666;">17:30 - 18:00</span> </td>
+      <td style="border-bottom: 1px solid gray; padding: 15px 10px;">        </td>
     </tr>
     <tr>
-      <td style="padding: 10px; width: 50%;"> <h5>Food and drinks (18:00-...)</h5> </td>
-      <td style="padding: 10px;">        </td>
+      <td style="padding: 15px 10px; width: 40%; vertical-align: middle;"> <span style="font-size: 1.2em; font-weight: bold; color: #333;">Food and drinks</span> <br><span style="font-size: 0.95em; color: #666;">18:00 - ...</span> </td>
+      <td style="padding: 15px 10px;">        </td>
     </tr>
   </tbody>
 </table>
